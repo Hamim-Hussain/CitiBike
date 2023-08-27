@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This analysis delves into the usage patterns and user demographics of Citi Bike, a bike-sharing system in New Jersey, based on the available data from 2021. By examining key insights from the dataset, we aim to gain a deeper understanding of the popular starting stations, user types, gender distribution, and trip durations. This analysis provides valuable information for improving the bike-sharing system's efficiency, understanding user preferences, and enhancing transportation infrastructure in the region.
+This analyzis delves into the usage patterns and user demographics of Citi Bike, a bike-sharing system in New Jersey, based on the available data from 2021. By examining key insights from the dataset, we aim to gain a deeper understanding of the popular starting stations, user types, gender distribution, and trip durations. This analysis provides valuable information for improving the bike-sharing system's efficiency, understanding user preferences, and enhancing transportation infrastructure in the region.
 
 ## Sources of data
 
